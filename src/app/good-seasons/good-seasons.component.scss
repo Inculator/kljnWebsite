@@ -1,0 +1,17 @@
+.goodSeasonsBackground {
+    background: url('/assets/indian-spices.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+:host {
+    display: block;
+    left: 0;
+    width: 100%;
+    height: 900px;
+}
+.card {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: white
+}

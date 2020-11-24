@@ -1,0 +1,27 @@
+<div class="headerBackground">
+</div>
+<div class="card">
+  <app-landing-page></app-landing-page>
+</div>
+
+<div>
+  <router-outlet></router-outlet>
+</div>
+
+<div class="footerBackground">
+  <table class="center">
+    <tr>
+      <td style="padding-right: 10px;">
+          <button class="btn btn-primary" style="width: 30px; height: 30px;
+            background-image: url(./assets/images/facebook.jpg);"
+            (click)="onClickFabebook()"></button>
+      </td>
+      <td style="padding-left: 10px;">
+          <button class="btn btn-primary" style="width: 30px; height: 30px;
+            background-image: url(./assets/images/blogIcon.jpg);"
+            (click)="onClickBlog()"></button>
+      </td>
+    </tr>
+  </table>
+  <div class="footerRightName">Designed and developed by : MOHAK GUPTA</div>
+</div>

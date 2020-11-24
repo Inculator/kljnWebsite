@@ -1,0 +1,59 @@
+{
+    "data":[
+        {
+            "name": "Coriander",
+            "image": "dhaniya.jpg",
+            "description": "Coriander are the best products that we sale with no impurities and  sortex cleaned content. Coriander is the daily use spice."
+        },
+        {
+            "name": "Black Pepper",
+            "image": "blackPepper.jpg",
+            "description": "Black Pepper"
+        },
+        {
+            "name": "Cardamom",
+            "image": "cardamom.jpg",
+            "description": "Cardamom"
+        },
+        {
+            "name": "Cinammon",
+            "image": "cinammon.jpg",
+            "description": "Cinammon"
+        },
+        {
+            "name": "Clove",
+            "image": "clove.jpg",
+            "description": "Clove"
+        },
+        {
+            "name": "Haldi",
+            "image": "haldi.jpg",
+            "description": "Haldi"
+        },
+        {
+            "name": "Jeera",
+            "image": "jeera.jpg",
+            "description": "Jeera"
+        },
+        {
+            "name": "Long Pepper",
+            "image": "longPepper.jpg",
+            "description": "Long Pepper"
+        },
+        {
+            "name": "Red Chilli",
+            "image": "redChilli.jpg",
+            "description": "Red Chilli"
+        },
+        {
+            "name": "Sauff",
+            "image": "sauff.jpg",
+            "description": "Sauff"
+        },
+        {
+            "name": "White Poppy",
+            "image": "white_poppy_seeds.jpg",
+            "description": "White Poppy"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "previewImageSrc": "assets/images/corriander.jpg",
+            "thumbnailImageSrc": "assets/images/corriander.jpg",
+            "alt": "Corriander",
+            "title": "Corriander"
+        },
+        {
+            "previewImageSrc": "assets/images/jeera.jpg",
+            "thumbnailImageSrc": "assets/images/jeera.jpg",
+            "alt": "Jeera",
+            "title": "Jeera"
+        },
+        {
+            "previewImageSrc": "assets/images/walnut.jpg",
+            "thumbnailImageSrc": "assets/images/walnut.jpg",
+            "alt": "Walnut",
+            "title": "Walnut"
+        },
+        {
+            "previewImageSrc": "assets/images/poppyBackground.jpg",
+            "thumbnailImageSrc": "assets/images/poppyBackground.jpg",
+            "alt": "Poppy Seed",
+            "title": "Poppy Seed"
+        }
+    ]
+}

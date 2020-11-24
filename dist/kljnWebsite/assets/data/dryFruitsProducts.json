@@ -1,0 +1,39 @@
+{
+    "data":[
+        {
+            "name": "Almonds",
+            "image": "almonds.jpg",
+            "description": "Almonds"
+        },
+        {
+            "name": "Apricot",
+            "image": "appricot.jpg",
+            "description": "Apricot"
+        },
+        {
+            "name": "Cashew Nut",
+            "image": "cachew.jpg",
+            "description": "Cashew Nuts"
+        },
+        {
+            "name": "Dry Figs",
+            "image": "figs.jpg",
+            "description": "Dry Figs"
+        },
+        {
+            "name": "Pistachios",
+            "image": "pistacho.jpg",
+            "description": "Pistachios"
+        },
+        {
+            "name": "Raisins",
+            "image": "raisins.jpg",
+            "description": "Raisins"
+        },
+        {
+            "name": "Walnut",
+            "image": "walnut.jpg",
+            "description": "Walnut"
+        } 
+    ]
+}

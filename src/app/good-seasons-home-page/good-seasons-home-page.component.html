@@ -1,0 +1,81 @@
+<br>
+<div class="backgroundImageHomePage">
+<p-fieldset>
+    <div class="content-section implementation">
+        <p-galleria class="galleria-item-images" [(value)]="images" [responsiveOptions]="responsiveOptions" [containerStyle]="{'max-width': '500px'}" [numVisible]="5" [circular]="true"
+                [autoPlay]="true" [transitionInterval]="3000"> 
+            <ng-template pTemplate="item" let-item>
+                <img [src]="item.previewImageSrc" style="width: 100%;" alt="Images for Spices"/>
+            </ng-template>
+            <ng-template pTemplate="thumbnail" let-item>
+                <div class="p-grid p-nogutter p-justify-center">
+                    <img [src]="item.thumbnailImageSrc" style="width: 100%; display: block;" alt="Thumbnails"/>
+                </div>
+            </ng-template>
+        </p-galleria>
+</div>
+</p-fieldset>
+<table style="width: 100%;" >
+    <tr class="table-row-header">
+        <td style="width: 50%; height: 100%;" >About Us
+            </td>
+            <td style="width: 50%; height: 100%;" >News
+            </td>
+    </tr>
+    <tr style="width: 100%; height: 100%;">
+        <td style="width: 50%; height: 100%; padding-right: 20px; padding-left: 20px;" >
+            <p-scrollPanel [style]="{width: '100%', height: '350px'}" styleClass="custombar1">
+                <p>
+                Kishan Lal Jagan Nath is establised in 1927 at the heart of spices wholesale market in Khari Baoli, Delhi.
+                </p>
+                <p>
+                We are dealing with all kind of spices, oil seeds and recently we have started our business in dry fruits.
+                You can check our product catalog section for the range of products we deal in.
+                </p>
+                <p>
+                    M/S Kishan Lal Jagan Nath is establised in 1929 at the heart of spices wholesale market in Khari Baoli, Delhi.
+                    </p>
+                    <p>
+                    We are dealing with all kind of spices, oil seeds and recently we have started our business in dry fruits.
+                    You can check our product catalog section for the range of products we deal in.
+                    </p>
+                    <p>
+                        M/S Kishan Lal Jagan Nath is establised in 1929 at the heart of spices wholesale market in Khari Baoli, Delhi.
+                        </p>
+                        <p>
+                        We are dealing with all kind of spices, oil seeds and recently we have started our business in dry fruits.
+                        You can check our product catalog section for the range of products we deal in.
+                        </p>
+            </p-scrollPanel>
+        </td>
+        <td style="width: 50%; height: 100%; padding-right: 20px; padding-left: 20px;">
+            <p-scrollPanel [style]="{width: '100%', height: '350px'}" styleClass="custombar1">
+                <p>Ramganj Mandi</p> <br>
+                <p>
+                The farmers are expected to produce coriander this time. 
+                With good production, the farmers are also expected to increase 
+                the acreage of coriander next time. 
+                The farmers are joyful by looking at the archive crop of coriander. 
+                Now the white flowers in the coriander crop are turning into green dodies.
+                </p>
+                <p>Ramganj Mandi</p> <br>
+                <p>
+                The farmers are expected to produce coriander this time. 
+                With good production, the farmers are also expected to increase 
+                the acreage of coriander next time. 
+                The farmers are joyful by looking at the archive crop of coriander. 
+                Now the white flowers in the coriander crop are turning into green dodies.
+                </p>
+                <p>Ramganj Mandi</p> <br>
+                <p>
+                The farmers are expected to produce coriander this time. 
+                With good production, the farmers are also expected to increase 
+                the acreage of coriander next time. 
+                The farmers are joyful by looking at the archive crop of coriander. 
+                Now the white flowers in the coriander crop are turning into green dodies.
+                </p>
+            </p-scrollPanel>
+        </td>
+    </tr>
+</table>
+</div>

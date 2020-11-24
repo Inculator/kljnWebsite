@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "name": "Black Mustard Seeds",
+            "image": "blackMustardSeeds.jpg",
+            "description": "Black Mustard Seeds"
+        },
+        {
+            "name": "Flax Seeds",
+            "image": "flaxSeeds.jpg",
+            "description": "Flax Seeds"
+        },
+        {
+            "name": "Sesame Seeds",
+            "image": "seasameSeeds.jpg",
+            "description": "Sesame Seeds"
+        },
+        {
+            "name": "Yellow Mustard Seeds",
+            "image": "yellowMustardSeeds.jpg",
+            "description": "Yellow Mustard Seeds"
+        }
+    ]
+}
