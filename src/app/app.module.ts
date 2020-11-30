@@ -26,6 +26,7 @@ import {ButtonModule} from 'primeng/button';
 import { CommonModule } from '@angular/common';
 import {ProductsService} from 'src/app/services/products.service';
 import {TableModule} from 'primeng/table';
+import { GoodSeasonsAvailableProductsComponent } from './good-seasons-available-products/good-seasons-available-products.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import {TableModule} from 'primeng/table';
     GoodSeasonsHomePageComponent,
     GoodSeasonsContactsComponent,
     GoodSeasonsProductCatalogComponent,
+    GoodSeasonsAvailableProductsComponent,
   ],
   imports: [
     BrowserModule,

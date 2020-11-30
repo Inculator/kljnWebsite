@@ -1,0 +1,54 @@
+{
+    "data":[    
+        {
+            "productName": "Dhania (Coriander)",
+            "quantityPerBag": "40kg",
+            "priceRange": "₹ 77-160 /kg"
+        },
+        {
+            "productName": "Methi (Fenugreek Seeds)",
+            "quantityPerBag": "50kg",
+            "priceRange": "₹ 75-100 /kg"
+        },
+        {
+            "productName": "Ajwain (Carom Seeds)",
+            "quantityPerBag": "40kg",
+            "priceRange": "₹ 180-310 /kg"
+        },
+        {
+            "productName": "Jeera (Cumin)",
+            "quantityPerBag": "40kg",
+            "priceRange": "₹ 160-210 /kg"
+        },
+        {
+            "productName": "Saunff (Fennel Seeds)",
+            "quantityPerBag": "40kg",
+            "priceRange": "₹ 140-210 /kg"
+        },
+        {
+            "productName": "Kalaunji (Black Cumin)",
+            "quantityPerBag": "30kg",
+            "priceRange": "₹ 260 /kg"
+        },
+        {
+            "productName": "Sarso (Black Mustard)",
+            "quantityPerBag": "50kg",
+            "priceRange": "₹ 70-75 /kg"
+        },
+        {
+            "productName": "Sarso (Yellow Mustard)",
+            "quantityPerBag": "50kg",
+            "priceRange": "₹ 92 /kg"
+        },
+        {
+            "productName": "Alsi (Flax Seeds)",
+            "quantityPerBag": "50kg",
+            "priceRange": "₹ 75 /kg"
+        },
+        {
+            "productName": "Rai (Small Mustard)",
+            "quantityPerBag": "50kg",
+            "priceRange": "₹ 72 /kg"
+        }
+    ]
+}

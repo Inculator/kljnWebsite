@@ -1,10 +1,10 @@
 .products {
     font-size: 30px;
-    color: white;
+    color: black;
 }
 .productsDescription {
     font-size: 15px;
-    color: white;
+    color: black;
 }
 .p-datatable .p-datatable-tbody > tr > td {
     text-align: left;
@@ -16,4 +16,36 @@
     table-layout: auto;
     width: 100%;
     overflow: auto!important;
+}
+
+.column {
+    float: left;
+    width: 31%;
+    height: 100px;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+  
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.justifyDescription { 
+    text-justify: inter-word; 
+    text-align: justify;
+}
+.justifyDescriptionDryFruits { 
+    text-justify: inter-word; 
+    text-align: justify;
+}
+.dryFruitsBackground{
+    background-image: url(/assets/images/logos/watermark_1.jpg);
+}
+.spicesBackground {
+    background-image: url(/assets/images/logos/watermark_2.jpg);
+}
+.oilSeedsBackground {
+    background-image: url(/assets/images/logos/watermark_2.jpg);
 }

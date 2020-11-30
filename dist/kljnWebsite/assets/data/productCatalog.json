@@ -1,28 +1,142 @@
 {
     "data":[
         {
-            "previewImageSrc": "assets/images/corriander.jpg",
-            "thumbnailImageSrc": "assets/images/corriander.jpg",
-            "alt": "Corriander",
-            "title": "Corriander"
+            "previewImageSrc": "assets/images/mainPage/almonds_2.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/almonds_2.jpg",
+            "alt": "",
+            "title": ""
         },
         {
-            "previewImageSrc": "assets/images/jeera.jpg",
-            "thumbnailImageSrc": "assets/images/jeera.jpg",
-            "alt": "Jeera",
-            "title": "Jeera"
+            "previewImageSrc": "assets/images/mainPage/almonds-bloom_5.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/almonds-bloom_5.jpg",
+            "alt": "",
+            "title": ""
         },
         {
-            "previewImageSrc": "assets/images/walnut.jpg",
-            "thumbnailImageSrc": "assets/images/walnut.jpg",
-            "alt": "Walnut",
-            "title": "Walnut"
+            "previewImageSrc": "assets/images/mainPage/appricot_4.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/appricot_4.jpg",
+            "alt": "",
+            "title": ""
         },
         {
-            "previewImageSrc": "assets/images/poppyBackground.jpg",
-            "thumbnailImageSrc": "assets/images/poppyBackground.jpg",
-            "alt": "Poppy Seed",
-            "title": "Poppy Seed"
+            "previewImageSrc": "assets/images/mainPage/black-pepper_1.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/black-pepper_1.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/cardamom_3.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/cardamom_3.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/cashew-nut_3.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/cashew-nut_3.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/cinnamon_1.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/cinnamon_1.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/clove.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/clove.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/corriander_2.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/corriander_2.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/fennel-seeds_2.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/fennel-seeds_2.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/fenugreek-seeds_2.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/fenugreek-seeds_2.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/figs_2.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/figs_2.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/flax-seeds_1.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/flax-seeds_1.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/jeera_2.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/jeera_2.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/mustard-seeds-black_3.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/mustard-seeds-black_3.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/peanuts_2.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/peanuts_2.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/pistachio_1.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/pistachio_1.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/red-chilly_1.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/red-chilly_1.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/sesame-seeds-black-white.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/sesame-seeds-black-white.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/walnut_5.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/walnut_5.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/white-poppy-seeds_1.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/white-poppy-seeds_1.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/white-poppy-seeds_3.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/white-poppy-seeds_3.jpg",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/mainPage/yellowMustardSeeds.jpg",
+            "thumbnailImageSrc": "assets/images/mainPage/yellowMustardSeeds.jpg",
+            "alt": "",
+            "title": ""
         }
     ]
 }

@@ -1,0 +1,27 @@
+<div class="card backgroundAvailableProducts">
+    <div style="text-align: center; font-weight: bold;">Wholesale packaging only</div> <br>
+    <p-table [columns]="cols" [value]="availableProducts" >
+        <ng-template pTemplate="header" let-columns>
+            <tr>
+                <th *ngFor="let col of columns" class="headerColumn">
+                    {{col.header}}
+                </th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-rowData let-columns="columns">
+            <tr>
+                <td *ngFor="let col of columns">
+                    {{rowData[col.field]}}
+                </td>
+            </tr>
+        </ng-template>
+    </p-table>
+    <p class="notes">
+        Note:<br>
+        1. Minimum 1 bag of any product is sold.<br>
+        2. All prices are dynamic and indicate a broad idea.<br>
+        3. Applicable GST will be charged extra on the mentioned price.<br>
+        4. Delivery of goods are provided from our premises, buyer has to arrange for cartage and transportation separately.<br>
+        5. Availability of product may change any time without any prior update.<br>
+    </p>
+</div>

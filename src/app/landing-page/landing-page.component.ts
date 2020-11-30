@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {MenuItem, PrimeIcons} from 'primeng/api';
+import { Constants } from '../constants';
 
 @Component({
   selector: 'app-landing-page',
@@ -10,6 +11,7 @@ export class LandingPageComponent implements OnInit {
 
   items: MenuItem[];
   activeItem: MenuItem;
+  FIRM_NAME: string;
 
   constructor() {
     this.items = [
@@ -21,6 +23,7 @@ export class LandingPageComponent implements OnInit {
    }
 
   ngOnInit() {
+    this.FIRM_NAME = Constants.FIRMNAME;
   }
 
 }

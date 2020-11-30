@@ -14,7 +14,8 @@ export class GoodSeasonsComponent implements OnInit {
   constructor() {
     this.items = [
       {label: 'Home', icon: PrimeIcons.HOME, routerLink: 'gsHomePage'},
-      {label: 'Products', icon: PrimeIcons.INFO, routerLink: 'gsProductCatalog'},
+      {label: 'Knowledge Center', icon: PrimeIcons.INFO, routerLink: 'gsProductCatalog'},
+      {label: 'Available Products', icon: PrimeIcons.LIST, routerLink: 'gsAvailableProducts'},
       {label: 'Contact Us', icon: PrimeIcons.INBOX, routerLink: 'gsContacts'}
     ];
 

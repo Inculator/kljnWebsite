@@ -1,57 +1,61 @@
 <div class="backgroundImageProductCatalog">
 
-    <table>
-        <tr>
-            <td>
-                <button pButton type="button" label="Spices" style="width: 415px; height: 100px;
-                background-image: url(./assets/images/background.jpg); font-weight: bold; color: red; font-size: 30px;" 
-                (click)="spicesSelected()">
-                </button>
-            </td>
-            <td>
-                <button pButton type="button" label="Dry Fruits" style="width: 415px; height: 100px;
-                background-image: url(./assets/images/walnut.jpg); font-weight: bold; color: aliceblue; font-size: 30px;" 
-                (click)="dryFruitsSelected()">
-                </button>
-            </td>
-            <td>
-                <button pButton type="button" label="Oil Seeds" style="width: 415px; height: 100px;
-                background-image: url(./assets/images/background2.jpg); font-weight: bold; color: black; font-size: 30px;" 
-                (click)="oilSeedsSelected()">
-                </button>
-            </td>
-        </tr>
-    </table>
+    <div class="row">
+        <div class="column">
+            <button pButton type="button" label="Spices" style="width: 100%; height: 100%;
+            background-image: url(./assets/images/backgrounds/spices-bg.jpg); font-weight: bold; color: red; font-size: 30px;" 
+            (click)="spicesSelected()">
+            </button>
+        </div>
+        <div class="column">
+            <button pButton type="button" label="Dry Fruits" style="width: 100%; height: 100%;
+            background-image: url(./assets/images/backgrounds/dry-fruits-bg.jpg); font-weight: bold; color: black; font-size: 30px;" 
+            (click)="dryFruitsSelected()">
+            </button>
+        </div>
+        <div class="column">
+            <button pButton type="button" label="Oil Seeds" style="width: 100%; height: 100%;
+            background-image: url(./assets/images/backgrounds/oil-seeds-bg.jpg); font-weight: bold; color: white; font-size: 30px;" 
+            (click)="oilSeedsSelected()">
+            </button>
+        </div>
+    </div>
 
-    <div *ngIf="isSpicesSelected">
-        <p-table [value]="spicesProducts" [scrollable]="true" scrollHeight="600px">
+    <div *ngIf="isSpicesSelected" class="spicesBackground">
+        <p-table [value]="spicesProducts" [scrollable]="true" >
             <ng-template pTemplate="body" let-product>
                 <tr>
-                    <td class="products" style="width: 20%;">{{product.name}}</td>
-                    <td style="width: 20%;"><img [src]="'assets/images/spices/' + product.image" [alt]="product.name" width="160" class="p-shadow-4" /></td>
-                    <td class="productsDescription" style="width: 60%;">{{product.description}}</td>
+                    <td class="products" style="width: 20%; background-color: white;">{{product.name}}</td>
+                    <td style="width: 20%; background-color: white;"><img [src]="'assets/images/spices/' + product.image" [alt]="product.name" width="200" height="160" class="p-shadow-4" /></td>
+                    <td class="productsDescription" style="width: 60%;">
+                        <div class="justifyDescription" [innerHTML]="product.description"></div>
+                    </td>
                 </tr>
             </ng-template>
         </p-table>
     </div>
-    <div *ngIf="isDryFruitsSelected">
-        <p-table [value]="dryFruitsProducts" [scrollable]="true" scrollHeight="600px">
+    <div *ngIf="isDryFruitsSelected" class="dryFruitsBackground">
+        <p-table [value]="dryFruitsProducts" [scrollable]="true" >
             <ng-template pTemplate="body" let-product>
                 <tr>
-                    <td class="products">{{product.name}}</td>
-                    <td><img [src]="'assets/images/dryFruits/' + product.image" [alt]="product.name" width="160" class="p-shadow-4" /></td>
-                    <td class="productsDescription">{{product.description}}</td>
+                    <td class="products" style="width: 20%; background-color: white;">{{product.name}}</td>
+                    <td style="width: 20%; background-color: white;"><img [src]="'assets/images/dryFruits/' + product.image" [alt]="product.name" width="200" height="160" class="p-shadow-4" /></td>
+                    <td class="productsDescription" style="width: 60%;">
+                        <div class="justifyDescriptionDryFruits">{{product.description}}</div>
+                    </td>
                 </tr>
             </ng-template>
         </p-table>
     </div>
-    <div *ngIf="isOilSeedsSelected">
-        <p-table [value]="oilSeedsProducts" [scrollable]="true" scrollHeight="600px">
+    <div *ngIf="isOilSeedsSelected" class="oilSeedsBackground">
+        <p-table [value]="oilSeedsProducts" [scrollable]="true">
             <ng-template pTemplate="body" let-product>
                 <tr>
-                    <td class="products">{{product.name}}</td>
-                    <td><img [src]="'assets/images/oilSeeds/' + product.image" [alt]="product.name" width="160" class="p-shadow-4" /></td>
-                    <td class="productsDescription">{{product.description}}</td>
+                    <td class="products" style="width: 20%; background-color: white;">{{product.name}}</td>
+                    <td style="width: 20%; background-color: white;"><img [src]="'assets/images/oilSeeds/' + product.image" [alt]="product.name" width="200" height="160" class="p-shadow-4" /></td>
+                    <td class="productsDescription" style="width: 60%;">
+                        <div class="justifyDescription">{{product.description}}</div>
+                    </td>
                 </tr>
             </ng-template>
         </p-table>

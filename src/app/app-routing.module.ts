@@ -4,6 +4,7 @@ import { GoodSeasonsComponent } from './good-seasons/good-seasons.component';
 import { GoodSeasonsHomePageComponent } from './good-seasons-home-page/good-seasons-home-page.component';
 import { GoodSeasonsContactsComponent } from './good-seasons-contacts/good-seasons-contacts.component';
 import { GoodSeasonsProductCatalogComponent } from './good-seasons-product-catalog/good-seasons-product-catalog.component';
+import { GoodSeasonsAvailableProductsComponent } from './good-seasons-available-products/good-seasons-available-products.component';
 
 
 const routes: Routes = [{path: '', redirectTo: '/gsHomePage', pathMatch: 'full'},
@@ -11,7 +12,8 @@ const routes: Routes = [{path: '', redirectTo: '/gsHomePage', pathMatch: 'full'}
   children: [
               {path: 'gsHomePage', component: GoodSeasonsHomePageComponent},
               {path: 'gsContacts', component: GoodSeasonsContactsComponent},
-              {path: 'gsProductCatalog', component: GoodSeasonsProductCatalogComponent}
+              {path: 'gsProductCatalog', component: GoodSeasonsProductCatalogComponent},
+              {path: 'gsAvailableProducts', component: GoodSeasonsAvailableProductsComponent}
             ]
   }
 ];

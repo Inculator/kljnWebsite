@@ -1,47 +1,43 @@
 <div class="backgroundImageContacts">
-    <table class="center" style="width: 100%; padding-top: 350px;" >
+    <table class="center" style="width: 100%;" >
         <tr>
+            <td style="width: 40%; background-color: darkgrey; background-image: url(./assets/images/backgrounds/contact-us-bg.jpg)">
+                
+            </td>
             <td style="padding-left: 20px; text-align: center;">
-                <div style="font-size: 40px;">
-                    KISHAN LAL JAGAN NATH 
+                <div style="font-size: 30px;" [innerHTML]="FIRM_NAME">
                 </div><br>
-                <div style="font-size: 30px;">
-                    27A - Gadodia Market,<br>
-                    Khari Baoli, Delhi - 110006 (India)
+                <div style="font-size: 20px;" [innerHTML]="ADDRESS">
                 </div>
             </td>
             <td>
                 <tr >
                     <td>
-                        <img alt="Card" src="assets/images/email.jpg" style="width: 50px;">
+                        <img alt="Card" src="assets/images/icons/email.jpg" style="width: 40px;">
                     </td>
                     <td>
-                        <p style="color: black; font-size: 20px;">
-                            kljnath@gmail.com
-                        </p>
+                        <p class="details">{{EMAIL_ID}}</p>
                     </td>
                 </tr>
                 <tr >
                     <td>
-                        <img alt="Card" src="assets/images/websiteLogo.jpg" style="width: 50px;">
+                        <img alt="Card" src="assets/images/icons/websiteLogo.jpg" style="width: 40px;">
                     </td>
                     <td>
-                        <p style="color: black; font-size: 20px;">
-                            www.goodseasons.in
-                        </p>
+                        <p class="details">{{WEBSITE}}</p>
                     </td>
                 </tr>
                 <tr >
                     <td>
-                        <img alt="Card" src="assets/images/landline.jpg" style="width: 50px;">
+                        <img alt="Card" src="assets/images/icons/landline.jpg" style="width: 40px;">
                     </td>
-                    <td><p style="color: black; font-size: 20px;">+91 11 41254444</p></td>
+                    <td><p class="details">{{PHONE_NUMBER}}</p></td>
                 </tr>
                 <tr>
                     <td>
-                        <img alt="Card" src="assets/images/whatsapp.jpg" style="width: 50px;">
+                        <img alt="Card" src="assets/images/icons/whatsapp.jpg" style="width: 40px;">
                     </td>
-                    <td><p style="color: black; font-size: 20px;">+91 9818800299</p></td>
+                    <td><p class="details">{{MOBILE_NUMBER}}</p></td>
                 </tr>
             </td>
         </tr>   

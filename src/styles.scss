@@ -7,6 +7,7 @@
 @import './app/good-seasons-home-page/good-seasons-home-page.component.scss';
 @import './app/good-seasons-contacts/good-seasons-contacts.component.scss';
 @import './app/good-seasons-product-catalog/good-seasons-product-catalog.component.scss';
+@import './app/good-seasons-available-products/good-seasons-available-products.component.scss';
 
 // Import project material theme
 html, body { height: 100%; }
@@ -14,14 +15,14 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 
 .backgroundImageHomePage{
-    background-image: url(./assets/images/backgroundHome.jpg);
-    height: 800px;
+    background-image: url(./assets/images/backgrounds/backgroundHome.jpg);
+    height: 100%;
 }
 .backgroundImageProductCatalog{
-    background-image: url(./assets/images/spices1.jpg);
-    height: 800px;
+    // background-image: url(./assets/images/logos/watermark_2.jpg);
+    height: 100%;
 }
 .backgroundImageContacts{
-    background-image: url(./assets/images/background2.jpg);
-    height: 800px;
+    background-image: url(./assets/images/backgrounds/contact-us-bg1.jpg);
+    height: 100%;
 }

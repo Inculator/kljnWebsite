@@ -1,59 +1,64 @@
 {
-    "data":[
+    "data": [
         {
             "name": "Coriander",
-            "image": "dhaniya.jpg",
-            "description": "Coriander are the best products that we sale with no impurities and  sortex cleaned content. Coriander is the daily use spice."
+            "image": "corriander_product.jpg",
+            "description": "It is also known as Chinese parsley, Coriander or Cilantro. All parts of the plant are edible, but the fresh leaves and the dried seeds (as a spice) are the parts most traditionally used in cooking. Roasting or heating the seeds in a dry pan heightens the flavour, aroma, and pungency. Ground coriander seed loses flavour quickly in storage and is best ground fresh. Coriander seed is a spice in garam masala and Indian curries which often employ the ground fruits in generous amounts. It is main ingredient of the two south Indian dishes Sambhar and Rasam."
         },
         {
-            "name": "Black Pepper",
-            "image": "blackPepper.jpg",
-            "description": "Black Pepper"
-        },
-        {
-            "name": "Cardamom",
-            "image": "cardamom.jpg",
-            "description": "Cardamom"
-        },
-        {
-            "name": "Cinammon",
-            "image": "cinammon.jpg",
-            "description": "Cinammon"
-        },
-        {
-            "name": "Clove",
-            "image": "clove.jpg",
-            "description": "Clove"
-        },
-        {
-            "name": "Haldi",
-            "image": "haldi.jpg",
-            "description": "Haldi"
-        },
-        {
-            "name": "Jeera",
-            "image": "jeera.jpg",
-            "description": "Jeera"
-        },
-        {
-            "name": "Long Pepper",
-            "image": "longPepper.jpg",
-            "description": "Long Pepper"
+            "name": "Cumin",
+            "image": "jeera_product.jpg",
+            "description": "Cumin seed is used as a spice for its distinctive flavour and aroma. The seeds are powdered and used in almost all traditional Indian dishes and curries and also in different forms like kashaya (decoction), arishta (fermented decoction), and vati (tablet/pills), and processed with ghee (a semifluid clarified butter). In traditional medicine practices of several countries, dried cumin seeds are believed to have medicinal purposes, although there is no scientific evidence for any use as a drug or medicine. In southern Indian states, a popular drink called jeera water is made by boiling cumin seeds."
         },
         {
             "name": "Red Chilli",
-            "image": "redChilli.jpg",
-            "description": "Red Chilli"
+            "image": "red-chilly_product.jpg",
+            "description": "Red Chillies are widely used in many cuisines as a spice to add heat to dishes. When used fresh, they are most often prepared and eaten like a vegetable. Whole pods can be dried and then crushed or ground into chili powder that is used as a spice or seasoning. Chilies can be dried to prolong their shelf life. Red Chillies can also be preserved by brining, immersing them in oil, or by pickling. In India, most households always keep a stock of fresh hot green chilies at hand, and use them to flavour most curries and dry dishes. It is typically lightly fried with oil in the initial stages of preparation of the dish. Some states in India, such as Rajasthan, make entire dishes only by using spices and chilies."
         },
         {
-            "name": "Sauff",
-            "image": "sauff.jpg",
-            "description": "Sauff"
+            "name": "Carom Seeds",
+            "image": "carom-seeds_product.jpg",
+            "description": "A spice that every Indian household is all too familiar with and without which every dal tadka is incomplete, ajwain is derived from a herb plant that originated in our very own country. Ajwain seeds vary from being slightly olive green to brown in colour. All parts of this herb have a very strong scent hence it is also known as Ugragandha in Sanskrit. Ajwain seeds are rich in fiber, minerals, vitamins and antioxidants. They can even be chewed raw, added to water or tea to extract maximum benefits from them like Instant Relief from Acidity and Indigestion, Treats Common Cold, Eases the Pain Due to Arthritis etc. It is also used to Stop Greying of Hair, Cleansing skin and Cleaning Wounds."
+        },
+        {
+            "name": "Turmeric",
+            "image": "turmeric_product.jpg",
+            "description": "Historically, turmeric was used in Ayurveda and other traditional Indian medical systems, as well as Eastern Asian medical systems such as traditional Chinese medicine. In India, it was traditionally used for disorders of the skin, upper respiratory tract, joints, and digestive system. Today, Turmeric is used as a dietary supplement for a variety of conditions, including arthritis, digestive disorders, respiratory infections, allergies, liver disease, depression, and many others. Turmeric is a common spice and a major ingredient in curry powder. Curcumin is a major component of turmeric, and the activities of turmeric are commonly attributed to curcuminoids (curcumin and closely related substances). Curcumin gives turmeric its yellow colour. Turmeric dietary supplements are made from the dried rhizome and typically contain a mixture of curcuminoids. Turmeric is also made into a paste for skin conditions."
         },
         {
             "name": "White Poppy",
-            "image": "white_poppy_seeds.jpg",
-            "description": "White Poppy"
+            "image": "white-poppy-seeds_product.jpg",
+            "description": "Poppy Seed is an oilseed obtained from the opium poppy (Papaver somniferum). The tiny, kidney-shaped seeds have been harvested from dried seed pods by various civilizations for thousands of years. It is still widely used in many countries, especially in Central Europe and South Asia, where it is legally grown and sold commercially. The seeds are used whole or ground into meal as an ingredient in many foods – especially in pastry and bread – and they are pressed to yield poppyseed oil. The poppy seed paste is used for fillings in pastries, sometimes mixed with butter or milk and sugar. The ground filling is used in poppy seed rolls and some croissants and may be flavoured with lemon or orange zest, rum and vanilla with raisins, heavy cream, cinnamon, and chopped blanched almonds or walnuts added. For sweet baked goods, sometimes instead of sugar a tablespoon of jam, or other sweet binding agent, like syrup is substituted. The poppy seed for fillings are best when they are finely and freshly ground because this will make a big difference in the pastry filling's texture and taste."
+        },
+        {
+            "name": "Black Pepper",
+            "image": "black-pepper_product.jpg",
+            "description": "Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. Ground, dried and cooked peppercorns have been used since antiquity, both for flavour and as a traditional medicine. Black pepper is the world's most traded spice, and is one of the most common spices added to cuisines around the world. Its spiciness is due to the chemical compound piperine, which is a different kind of spicy from the capsaicin characteristic of chili peppers. It is ubiquitous in the modern world as a seasoning, and is often paired with salt and available on dining tables in shakers or mills. Pepper oil is also used as an ayurvedic massage oil and in certain beauty and herbal treatments."
+        },
+        {
+            "name": "Fennel Seeds (Saunff)",
+            "image": "fennel-seeds_product.jpg",
+            "description": "Fennel is a highly aromatic and flavourful herb used in cookery and, along with the similar-tasting anise, Many cultures in India, Afghanistan, Iran, and the Middle East use fennel fruits in cooking. It is one of the most important spices in Kashmiri Pandit and Gujarati cooking. It is an essential ingredient of the Assamese/Bengali/Oriya spice mixture panch phoron and in Chinese five-spice powders. In many parts of India, roasted fennel fruits are consumed as mukhwas, an after-meal digestive and breath freshener, or candied as comfit."
+        },
+        {
+            "name": "Fenugreek Seeds",
+            "image": "fenugreek-seeds_product.jpg",
+            "description": "Fenugreek is an herb that is similar to clover. It is native to the Mediterranean region, southern Europe, and western Asia. The seeds are used in cooking, in medicine, and to hide the taste of other medicine. Fenugreek seeds smell and taste similar to maple syrup. Fenugreek leaves are eaten in India as a vegetable. Fenugreek is taken by mouth for diabetes, menstrual cramps, high cholesterol, and many other conditions, but there is no good scientific evidence to support most of these uses. In foods, fenugreek is included as an ingredient in spice blends. It is also used as a flavouring agent in imitation maple syrup, foods, beverages, and tobacco. In manufacturing, fenugreek extracts are used in soaps and cosmetics."
+        },
+        {
+            "name": "Clove",
+            "image": "cloves_product.jpg",
+            "description": "Clove is a plant grown in parts of Asia, Africa and South America. People use the oils, dried flower buds, leaves, and stems to make medicine. Clove is most commonly applied directly to the gums for toothache, pain control during dental work, and other dental-related issues. But there is limited scientific research to support these and other uses. In foods and beverages, clove is used as a flavouring agent. In manufacturing, clove is used in toothpaste, soaps, cosmetics, perfumes, and cigarettes. Clove cigarettes, also called kreteks, generally contain 60% to 80% tobacco and 20% to 40% ground clove. "
+        },
+        {
+            "name": "Cardamom",
+            "image": "cardamom_product.jpg",
+            "description": "Cardamom has a strong, unique taste, with an intensely aromatic, resinous fragrance. Black cardamom has a distinctly more smoky, though not bitter, aroma, with a coolness some consider similar to mint. It is a common ingredient in Indian cooking. It is also often used in baking in the Nordic countries, in particular in Sweden, Norway, and Finland, where it is used in traditional treats such as the Scandinavian Yule bread Julekake, the Swedish kardemummabullar sweet bun, and Finnish sweet bread pulla. In the Middle East, green cardamom powder is used as a spice for sweet dishes, as well as traditional flavouring in coffee and tea. Cardamom is used to a wide extent in savoury dishes. In Asia, both types of cardamom are widely used in both sweet and savory dishes, particularly in the south. Both are frequent components in spice mixes, such as Indian and Nepali masalas and Thai curry pastes. Green cardamom is often used in traditional Indian sweets and in masala chai (spiced tea). Both are also often used as a garnish in basmati rice and other dishes. Individual seeds are sometimes chewed and used in much the same way as chewing gum."
+        },
+        {
+            "name": "Cinammon",
+            "image": "cinnamon_product.jpg",
+            "description": "Cinnamon is a spice obtained from the inner bark of several tree species from the genus Cinnamomum. Cinnamon is used mainly as an aromatic condiment and flavouring additive in a wide variety of cuisines, sweet and savoury dishes, breakfast cereals, snack foods, tea and traditional foods. The aroma and flavour of cinnamon derive from its essential oil and principal component, cinnamaldehyde, as well as numerous other constituents including eugenol. Cinnamon is the name for several species of trees and the commercial spice products that some of them produce. Cinnamon bark is used as a spice. It is principally employed in cookery as a condiment and flavouring material. It is used in the preparation of chocolate, especially in Mexico. Cinnamon is often used in savoury dishes of chicken and lamb. In the United States, cinnamon and sugar are often used to flavour cereals, bread-based dishes, such as toast, and fruits, especially apples; a cinnamon and sugar mixture (cinnamon sugar) is sold separately for such purposes. It is also used in Portuguese and Turkish cuisine for both sweet and savoury dishes. Cinnamon can also be used in pickling and Christmas drinks such as eggnog. Cinnamon powder has long been an important spice in enhancing the flavour of Persian cuisine, used in a variety of thick soups, drinks, and sweets."
         }
     ]
 }
