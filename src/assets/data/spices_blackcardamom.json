@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itemCode": "Black Cardamom Whole 1 x 250 gms",
+      "name": "Black Cardamom Whole 1 x 250 gms",
+      "description": "Black Cardamom Whole",
+      "image": "assets/images/spices/cardamom.jpg",
+      "price": 400,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/cardamom.jpg",
+          "thumbnailImageSrc": "assets/images/spices/cardamom.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "250gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    }
+  ]
+}

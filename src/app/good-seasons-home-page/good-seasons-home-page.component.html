@@ -1,36 +1,19 @@
-<br>
-<div>
-    <table style="width: 100%;" >
-        <tr>
-            <td style="width: 65%; height: 100%;"  class="backgroundImageHomePage">
-                <tr class="table-row-header">
-                    <td style="width: 100%; height: 100%;" >{{ABOUT_US_HEADER}}</td>
-                </tr>
-                <tr >
-                    <td style="padding-right: 20px; padding-left: 20px;" >
-                        <p-scrollPanel [style]="{width: '100%', height: '350px'}" styleClass="custombar1">
-                            <p style="text-justify: inter-word; text-align: justify;" [innerHTML]="aboutUsContent"></p>
-                        </p-scrollPanel>
-                    </td>
-                </tr>
-            </td>
-            <td style="width: 35%; height: 100%;">
-                <p-fieldset>
-                    <div class="content-section implementation">
-                        <p-galleria class="galleria-item-images" [(value)]="images" [responsiveOptions]="responsiveOptions" [containerStyle]="{'max-width': '600px'}" 
-                            [numVisible]="5" [circular]="true" [autoPlay]="true" [transitionInterval]="3000" [showThumbnails]="false"> 
-                            <ng-template pTemplate="item" let-item>
-                                <img [src]="item.previewImageSrc" style="width: 100%;" alt="Images for Spices"/>
-                            </ng-template>
-                            <ng-template pTemplate="thumbnail" let-item>
-                                <div class="p-grid p-nogutter p-justify-center">
-                                    <img [src]="item.thumbnailImageSrc" style="width: 100%; display: block;" alt="Thumbnails"/>
-                                </div>
-                            </ng-template>
-                        </p-galleria>
-                    </div>
-                </p-fieldset>
-            </td>
-        </tr>
-    </table>
-</div>
+<p-card style="text-align: center;">
+    <img style=" width: 20%; height: 20%;" src="assets/images/logos/watermark_3.jpg" />
+</p-card>
+
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 100%; height: 100%;">
+    <tr class="table-row-header">
+        <td style="width: 100%; height: 100%;">{{ABOUT_US_HEADER}}</td>
+    </tr>
+    <br>
+    <tr>
+        <td style="padding-right: 20px; padding-left: 20px;">
+            <p style="text-justify: inter-word; text-align: justify;" [innerHTML]="aboutUsContent"></p>
+        </td>
+    </tr>
+    </td>
+    </tr>
+</table>

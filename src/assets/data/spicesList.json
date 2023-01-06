@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": "Dhaniya",
+            "image": "assets/images/mainPage/almonds_2.jpg",
+            "description": "Dhaniya",
+            "price": "Rs 25"
+        },
+        {
+            "name": "Dhaniya",
+            "image": "assets/images/mainPage/almonds_2.jpg",
+            "description": "Dhaniya",
+            "price": "Rs 25"
+        },
+        {
+            "name": "Dhaniya",
+            "image": "assets/images/mainPage/almonds_2.jpg",
+            "description": "Dhaniya",
+            "price": "Rs 25"
+        },
+        {
+            "name": "Dhaniya",
+            "image": "assets/images/mainPage/almonds_2.jpg",
+            "description": "Dhaniya",
+            "price": "Rs 25"
+        }
+    ]
+}

@@ -47,7 +47,7 @@ export class GoodSeasonsHomePageComponent implements OnInit {
         `
             <span>
             <b>Kishan Lal Jagan Nath</b> was established in the year 1927 by
-            late Shri Jagannath who came to Delhi from Shekhawati
+            late Shri Jagannath Ji who came to Delhi from Shekhawati
             in the state of Rajasthan and settled at the heart and
             Asia’s biggest wholesale spice market Khari Baoli.
             </span><br><br>
@@ -65,13 +65,13 @@ export class GoodSeasonsHomePageComponent implements OnInit {
             customers and best competitive prices. In order to provide
             the most superior quality products to the customers,
             dedicated procurement is done from various states across the
-            country and from other countries across the globe. 
+            country and from other countries across the globe.
             </span><br><br>
 
             <span>
             Firm has zero tolerance for any adulteration and sub-standard
             products and raw material. Firm has a Registered Trade Mark
-            ‘Good Seasons®’ for Dry Fruits and soon more brands will follow. 
+            ‘Good Seasons®’ for Dry Fruits and soon more brands will follow.
             </span><br><br>
 
             <span>

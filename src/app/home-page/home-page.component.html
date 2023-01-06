@@ -1,0 +1,36 @@
+<p-card style="text-align: center;">
+    <p-galleria class="galleria-item-images" [(value)]="images" [responsiveOptions]="responsiveOptions" [numVisible]="5"
+        [circular]="true" [autoPlay]="true" [transitionInterval]="3000" [showThumbnails]="false">
+        <ng-template pTemplate="item" let-item>
+            <img [src]="item.previewImageSrc" style="width: 100%; height: 25rem;" alt="Images for Spices" />
+        </ng-template>
+    </p-galleria>
+</p-card>
+
+<p-card>
+    <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download.jpeg" />
+    <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download1.jpeg" />
+  <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download3.jpeg" />
+  <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download2.jpeg" />
+</p-card>
+
+<p-card styleClass="pcardFotter" style="text-align: center;">
+
+    <p-carousel [value]="platforms" styleClass="custom-carousel" [numVisible]="3" [numScroll]="1" [circular]="true"
+        [autoplayInterval]="3000" [responsiveOptions]="responsiveOptionsCarousel" [showIndicators]=false [showNavigators]=false>
+        <ng-template pTemplate="header">
+            <h1
+                style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-style: italic; font-weight: bolder;">
+                WE ARE AVAILABLE AT</h1>
+        </ng-template>
+        <ng-template let-product pTemplate="item">
+            <div class="product-item">
+                <div class="product-item-content">
+                    <div class="p-mb-3">
+                        <img src="{{product.previewImageSrc}}" [alt]="product.alt" class="product-image" />
+                    </div>
+                </div>
+            </div>
+        </ng-template>
+    </p-carousel>
+</p-card>

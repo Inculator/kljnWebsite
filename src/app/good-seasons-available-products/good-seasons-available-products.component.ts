@@ -25,7 +25,6 @@ export class GoodSeasonsAvailableProductsComponent implements OnInit {
 
   getAvailableProducts() {
     this.availableProductsService.getAvailableProducts().then(data => this.availableProducts = data);
-    console.log(this.availableProducts);
   }
 
 }

@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itemCode": "White Sesame Seeds 1 x 100 gms",
+      "name": "White Sesame Seeds 1 x 100 gms",
+      "description": "White Sesame Seeds",
+      "image": "assets/images/spices/corriander.jpg",
+      "price": 0,
+      "category": "Oil Seeds",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "100",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "itemCode": "White Sesame Seeds 1 x 250 gms",
+      "name": "White Sesame Seeds 1 x 250 gms",
+      "description": "White Sesame Seeds",
+      "image": "assets/images/spices/corriander.jpg",
+      "price": 0,
+      "category": "Oil Seeds",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "250gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "itemCode": "Ajwain 1 x 100 gms",
+            "name": "Ajwain 1 x 100 gms",
+            "description": "Ajwain",
+            "image": "assets/images/spices/ajwain.jpg",
+            "price": 80,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/spices/ajwain.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/ajwain.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/spices/ajwain.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/ajwain.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "100gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "itemCode": "Ajwain 1 x 250 gms",
+            "name": "Ajwain 1 x 250 gms",
+            "description": "Ajwain",
+            "image": "assets/images/spices/ajwain.jpg",
+            "price": 180,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/spices/ajwain.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/ajwain.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/spices/ajwain.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/ajwain.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "itemCode": "Mamra Giri 1 x 250 gms",
+            "name": "Mamra Giri (Iran) - 1 x 250 gms",
+            "description": "The almond is a species of tree native to Iran and surrounding countries but widely cultivated elsewhere. The fruit of the almond is a drupe, consisting of an outer hull and a hard shell with the seed, which is not a true nut, inside. Shelling almonds refers to removing the shell to reveal the seed. Almonds are sold shelled or unshelled. Blanched almonds are shelled almonds that have been treated with hot water to soften the seedcoat, which is then removed to reveal the white embryo. Almonds are included as a good source of protein among recommended healthy foods by the US Department of Agriculture. A 2016 review of clinical research indicated that regular consumption of almonds may reduce the risk of heart disease by lowering blood levels of LDL cholesterol. People can eat almonds raw or toasted as a snack or add them to sweet or savory dishes. They are also available sliced, flaked, slivered, as flour, oil, butter, or almond milk. Almonds contain relatively high levels of vitamin E. Vitamin E contains antioxidants, such as tocopherol. One ounce (28.4 g) of plain almonds provides 7.27 milligrams (mg) of vitamin E, which is around half a person’s daily requirement. There is some evidence that almonds may help manage blood sugar levels. Almond are low in carbohydrates but high in protein, healthful fats, and fiber. Almonds contain calcium, magnesium, manganese, copper, vitamin K, protein, and zinc, all of which contribute to bone health.",
+            "image": "assets/images/dryFruits/almonds.jpg",
+            "price": 900,
+            "category": "Dry Fruits & Nuts",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/dryFruits/almonds_2.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/almonds_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                  "previewImageSrc": "assets/images/fssai.jpg",
+                  "thumbnailImageSrc": "assets/images/fssai.jpg",
+                  "alt": "",
+                  "title": ""
+                },
+                {
+                  "previewImageSrc": "assets/images/vegMark.jpg",
+                  "thumbnailImageSrc": "assets/images/vegMark.jpg",
+                  "alt": "",
+                  "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Reusable Plastic Jar"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "itemCode": "Almond Kernel(California) 1 x 250 gms",
+            "name": "Almond Kernel (California) 1 x 250 gms",
+            "description": "The almond is a species of tree native to Iran and surrounding countries but widely cultivated elsewhere. The fruit of the almond is a drupe, consisting of an outer hull and a hard shell with the seed, which is not a true nut, inside. Shelling almonds refers to removing the shell to reveal the seed. Almonds are sold shelled or unshelled. Blanched almonds are shelled almonds that have been treated with hot water to soften the seedcoat, which is then removed to reveal the white embryo. Almonds are included as a good source of protein among recommended healthy foods by the US Department of Agriculture. A 2016 review of clinical research indicated that regular consumption of almonds may reduce the risk of heart disease by lowering blood levels of LDL cholesterol. People can eat almonds raw or toasted as a snack or add them to sweet or savory dishes. They are also available sliced, flaked, slivered, as flour, oil, butter, or almond milk. Almonds contain relatively high levels of vitamin E. Vitamin E contains antioxidants, such as tocopherol. One ounce (28.4 g) of plain almonds provides 7.27 milligrams (mg) of vitamin E, which is around half a person’s daily requirement. There is some evidence that almonds may help manage blood sugar levels. Almond are low in carbohydrates but high in protein, healthful fats, and fiber. Almonds contain calcium, magnesium, manganese, copper, vitamin K, protein, and zinc, all of which contribute to bone health.",
+            "image": "assets/images/dryFruits/almonds.jpg",
+            "price": 465,
+            "category": "Dry Fruits & Nuts",
+            "quantity": 24,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/dryFruits/almonds_2.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/almonds_2.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Zipper Pouch"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "itemCode": "Gurbandi 1 x 250 gms",
+            "name": "Gurbandi 1 x 250 gms",
+            "description": "The almond is a species of tree native to Iran and surrounding countries but widely cultivated elsewhere. The fruit of the almond is a drupe, consisting of an outer hull and a hard shell with the seed, which is not a true nut, inside. Shelling almonds refers to removing the shell to reveal the seed. Almonds are sold shelled or unshelled. Blanched almonds are shelled almonds that have been treated with hot water to soften the seedcoat, which is then removed to reveal the white embryo. Almonds are included as a good source of protein among recommended healthy foods by the US Department of Agriculture. A 2016 review of clinical research indicated that regular consumption of almonds may reduce the risk of heart disease by lowering blood levels of LDL cholesterol. People can eat almonds raw or toasted as a snack or add them to sweet or savory dishes. They are also available sliced, flaked, slivered, as flour, oil, butter, or almond milk. Almonds contain relatively high levels of vitamin E. Vitamin E contains antioxidants, such as tocopherol. One ounce (28.4 g) of plain almonds provides 7.27 milligrams (mg) of vitamin E, which is around half a person’s daily requirement. There is some evidence that almonds may help manage blood sugar levels. Almond are low in carbohydrates but high in protein, healthful fats, and fiber. Almonds contain calcium, magnesium, manganese, copper, vitamin K, protein, and zinc, all of which contribute to bone health.",
+            "image": "assets/images/dryFruits/almonds.jpg",
+            "price": 500,
+            "category": "Dry Fruits & Nuts",
+            "quantity": 24,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/dryFruits/almonds_2.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/almonds_2.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Zipper Pouch"
+                }
+            ]
+        }
+    ]
+}

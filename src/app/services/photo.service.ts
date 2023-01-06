@@ -16,4 +16,10 @@ export class PhotoService {
       .then(data => data);
   }
 
+  getPlatforms() {
+    return this.http.get<any>('assets/data/platforms.json')
+      .toPromise().then(res => res.data as Image[])
+      .then(data => data);
+  }
+
 }

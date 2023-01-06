@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "itemCode": "White Poppy Seeds 1 x 100 gms",
+            "name": "White Poppy Seeds 1 x 100 gms",
+            "description": "White Poppy Seeds",
+            "image": "assets/images/spices/white_poppy_seeds.jpg",
+            "price": 200,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "100gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "itemCode": "White Poppy Seeds 2 x 100 gms",
+            "name": "White Poppy Seeds 2 x 100 gms",
+            "description": "White Poppy Seeds",
+            "image": "assets/images/spices/white_poppy_seeds.jpg",
+            "price": 350,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/white_poppy_seeds.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "100gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        }
+    ]
+}

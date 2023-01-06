@@ -4,8 +4,28 @@
     width: 100%;
     height: 100%;
 }
-.card {
-    padding-bottom: 1px;
-    padding-top: 1px;
-    background-color: lightyellow
+
+body .p-menubar {
+    padding: 0rem 0;
+    background: gold;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.pCardHeader {
+    width: 100%;
+    right: 0;
+}
+.pMainContent{
+    width: 100%;
+    right: 0;
+}
+
+body .p-menubar .p-menuitem.p-menuitem-active > .p-menuitem-link {
+    background: gold;
+}
+
+body .p-menubar .p-menubar-root-list > .p-menuitem.p-menuitem-active > .p-menuitem-link, .p-menubar .p-menubar-root-list > .p-menuitem.p-menuitem-active > .p-menuitem-link:not(.p-disabled):hover {
+    background: gold;
 }

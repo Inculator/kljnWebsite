@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itemCode": "Garam Masala Whole 1 x 250 gms",
+      "name": "Garam Masala Whole 1 x 250 gms",
+      "description": "Garam Masala Whole",
+      "image": "assets/images/spices/clove.jpg",
+      "price": 500,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
+          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
+          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "100gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "itemCode": "Garam Masala Whole 1 x 500 gms",
+      "name": "Garam Masala Whole 1 x 500 gms",
+      "description": "Hand Picked Garam Masala Whole",
+      "image": "assets/images/spices/blackPepper.jpg",
+      "price": 950,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
+          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
+          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "500gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    }
+  ]
+}

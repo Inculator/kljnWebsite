@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "itemCode": "Indian Green Raisins 1 x 250 gms",
+            "name": "Indian Green Raisins 1 x 250 gms",
+            "description": "Green Raisins grown in India.",
+            "image": "assets/images/dryFruits/raisins.jpg",
+            "price": 400,
+            "category": "Dry Fruits & Nuts",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/dryFruits/raisins.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/raisins.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/dryFruits/raisins.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/raisins.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Zipper Pouch"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "itemCode": "Green Raisins (Kandhari) 1 x 250 gms",
+            "name": "Green Raisins (Kandhari) 1 x 250 gms",
+            "description": "Premium Green Raisins grown in Afghanistan.",
+            "image": "assets/images/dryFruits/raisin_product.jpg",
+            "price": 680,
+            "category": "Dry Fruits & Nuts",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/dryFruits/raisin_product.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/raisin_product.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/dryFruits/raisin_product.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/raisin_product.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Zipper Pouch"
+                }
+            ]
+        }
+    ]
+}

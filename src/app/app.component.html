@@ -1,38 +1,52 @@
-<div class="headerBackground">
-</div>
-<div class="card">
+<!-- <div>
   <app-landing-page></app-landing-page>
-</div>
-
-<div>
+</div> -->
+<p-card>
   <router-outlet></router-outlet>
-</div>
+</p-card>
 
-<div class="footerBackground">
-  <br>
-  <table class="center">
-    <tr>
-      <td style="padding-right: 10px;">
-          <button class="btn btn-primary" style="width: 30px; height: 30px;
-            background-image: url(./assets/images/icons/facebook.jpg);"
-            (click)="onClickFabebook()"></button>
-      </td>
-      <td style="padding-left: 10px;">
-          <button class="btn btn-primary" style="width: 30px; height: 30px;
-            background-image: url(./assets/images/icons/blogIcon.jpg);"
-            (click)="onClickBlog()"></button>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p style="text-justify: auto; text-align: center; color: white">
-          Disclaimer: <br>
-          All information mentioned under 'Knowledge Center' is sourced from various articles and journals. <br>
-          Firm is not responsible for the accuracy, completeness, suitability, or validity of any information. <br>
-          Visitors are advised to authenticate the information before consuming any product.
-        </p>
-      </td>
-    </tr>
-  </table>
-  <!-- <div class="footerRightName">Creations: Ravya Garg</div> -->
+<div class="p-d-flex card">
+  <div class="bottomDividerContent">
+
+    <div style="text-align: left;">
+
+      <div style="font-size: 1rem; font-style: Arial; font-style: italic;">
+        If you have any questions reach out to us <p-button label="Here" styleClass="p-button-link"
+          routerLink="gsContacts"></p-button>
+        <br>
+        To order with us, please visit <p-button label="Buy" styleClass="p-button-link" routerLink=""></p-button>
+        section.
+        <br>
+        Or contact us with just a message on WhatsApp!
+        <p-divider layout="horizontal"></p-divider>
+
+        Copyright © Kishan Lal Jagan Nath 2021
+      </div>
+
+    </div>
+  </div>
+  <p-divider layout="vertical"></p-divider>
+  <div class="bottomDividerContent">
+    <div class="social">
+      <a [href]="facebookUrl" target="_blank">
+        <img src="assets/images/icons/facebookLogo.png" alt="" matTooltip="Facebook" matTooltipPosition="above">
+      </a>
+
+      <a [href]="instagramUrl" target="_blank">
+        <img src="assets/images/icons/instagramLogo.png" alt="" matTooltip="Instagram"
+             matTooltipPosition="above">
+      </a>
+    </div>
+    <p-divider layout="horizontal"></p-divider>
+    <h1
+      style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-style: italic;">
+      You can pay us at</h1>
+      <img style="width: 100%; max-width: 15rem" src="./assets/images/payments.png" />
+  </div>
+  <p-divider layout="vertical"></p-divider>
+  <div class="bottomDividerContent" style="font-size: 1rem; font-style: Arial;">
+    Powered by Ravya TechServe
+    <br><br>
+    <div><img style="width: 7rem; height: 7rem" src="./assets/images/QRCodeWebsite.png" /></div>
+  </div>
 </div>

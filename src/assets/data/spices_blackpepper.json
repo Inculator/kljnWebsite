@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "itemCode": "Black Pepper 1 x 100 gms",
+            "name": "Black Pepper 1 x 100 gms",
+            "description": "Black Pepper",
+            "image": "assets/images/spices/blackPepper_2.jpg",
+            "price": 180,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/spices/blackPepper.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/spices/blackPepper_2.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/blackPepper_2.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "100gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "itemCode": "Black Pepper 1 x 250 gms",
+            "name": "Black Pepper 1 x 250 gms",
+            "description": "Black Pepper",
+            "image": "assets/images/spices/blackPepper_2.jpg",
+            "price": 450,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/spices/blackPepper.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/spices/blackPepper_2.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/blackPepper_2.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        }
+    ]
+}

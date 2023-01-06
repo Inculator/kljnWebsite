@@ -1,45 +1,62 @@
-<div class="backgroundImageContacts">
-    <table class="center" style="width: 100%;" >
-        <tr>
-            <td style="width: 40%; background-color: darkgrey; background-image: url(./assets/images/backgrounds/contact-us-bg.jpg)">
-                
-            </td>
-            <td style="padding-left: 20px; text-align: center;">
-                <div style="font-size: 30px;" [innerHTML]="FIRM_NAME">
-                </div><br>
-                <div style="font-size: 20px;" [innerHTML]="ADDRESS">
-                </div>
-            </td>
-            <td>
-                <tr >
-                    <td>
-                        <img alt="Card" src="assets/images/icons/email.jpg" style="width: 40px;">
-                    </td>
-                    <td>
-                        <p class="details">{{EMAIL_ID}}</p>
-                    </td>
-                </tr>
-                <tr >
-                    <td>
-                        <img alt="Card" src="assets/images/icons/websiteLogo.jpg" style="width: 40px;">
-                    </td>
-                    <td>
-                        <p class="details">{{WEBSITE}}</p>
-                    </td>
-                </tr>
-                <tr >
-                    <td>
-                        <img alt="Card" src="assets/images/icons/landline.jpg" style="width: 40px;">
-                    </td>
-                    <td><p class="details">{{PHONE_NUMBER}}</p></td>
-                </tr>
-                <tr>
-                    <td>
-                        <img alt="Card" src="assets/images/icons/whatsapp.jpg" style="width: 40px;">
-                    </td>
-                    <td><p class="details">{{MOBILE_NUMBER}}</p></td>
-                </tr>
-            </td>
-        </tr>   
-    </table>
+<div class="card">
+  <div class="p-grid">
+
+    <div class="dividerContent">
+      <h2 style="font-style: italic;">GET IN TOUCH</h2>
+      <p-divider layout="horizontal"></p-divider>
+      <div style="font-size: 1rem;" [innerHTML]="FIRM_NAME">
+      </div>
+      <br>
+      <div>{{ADDRESS}}</div>
+      <br>
+      <div class="social"  style="display: flex">
+        <img src="assets/images/icons/landlineLogo.png" alt="" matTooltip="Call us" matTooltipPosition="center">
+        {{PHONE_NUMBER}}
+      </div>
+      <br>
+      <div class="social" style="display: flex">
+        <img src="assets/images/icons/whatsAppLogo.png" alt="" matTooltip="Whats App" matTooltipPosition="center">
+        <a href="https://api.whatsapp.com/send?phone=+919818800299&text=We wish to order with you!"
+                            class="social-icon whatsapp">{{MOBILE_NUMBER}}</a>
+      </div>
+      <br>
+      <div class="social" style="display: flex">
+        <img src="assets/images/icons/emailLogo.png" alt="" matTooltip="Email" matTooltipPosition="center">
+        <a href="mailto:kljnath@gmail.com?subject=Enquiry">{{EMAIL_ID}}</a>
+
+      </div>
+    </div>
+    <div>
+      <p-divider layout="vertical">
+      </p-divider>
+    </div>
+
+    <div class="p-col-5 p-d-flex p-ai-center p-jc-center dividerContent">
+      <div class="p-fluid">
+        <div class="p-field">
+          <label for="name">Name</label>
+          <input pInputText id="name" type="text" [(ngModel)]="name"/>
+        </div>
+        <div class="p-field">
+          <label for="contact">Phone No.</label>
+          <input pInputText id="contact" type="text" [(ngModel)]="contact">
+        </div>
+        <div class="p-field">
+          <label for="email">Email</label>
+          <input pInputText id="email" type="text" [(ngModel)]="email">
+        </div>
+        <div class="p-field">
+          <label for="message">Message</label>
+          <textarea [rows]="2" [cols]="10" pInputTextarea autoResize="autoResize"
+                    [(ngModel)]="message"></textarea>
+        </div>
+        <div style="padding-top: 0.5rem;">
+          <p-button label="Send Us an Email" (onClick)="sendEmail();" ></p-button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="p-field">
+    <p-messages [(value)]="successMessage"></p-messages>
+  </div>
 </div>

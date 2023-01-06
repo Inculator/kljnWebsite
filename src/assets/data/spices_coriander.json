@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "itemCode": "Coriander Whole 1 x 250 gms",
+            "name": "Coriander Whole 1 x 250 gms",
+            "description": "Coriander",
+            "image": "assets/images/spices/corriander.jpg",
+            "price": 80,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/spices/corriander_2.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/corriander_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/spices/corriander.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "itemCode": "Coriander Whole 1 x 500 gms",
+            "name": "Coriander Whole 1 x 500 gms",
+            "description": "Coriander",
+            "image": "assets/images/spices/corriander.jpg",
+            "price": 150,
+            "category": "Spices",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                  {
+                    "previewImageSrc": "assets/images/spices/corriander_2.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/corriander_2.jpg",
+                    "alt": "",
+                    "title": ""
+                  },
+                  {
+                    "previewImageSrc": "assets/images/spices/corriander.jpg",
+                    "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+                    "alt": "",
+                    "title": ""
+                  }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "500gm",
+                    "packageStyle": "Sealed Pouch"
+                }
+            ]
+        }
+    ]
+}

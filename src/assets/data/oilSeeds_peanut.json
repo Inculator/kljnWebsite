@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itemCode": "Raw Peanuts 1 x 250 gms",
+      "name": "Raw Peanuts 1 x 250 gms",
+      "description": "Raw Peanuts",
+      "image": "assets/images/spices/corriander.jpg",
+      "price": 100,
+      "category": "Oil Seeds",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "250",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "itemCode": "Raw Peanuts 1 x 500 gms",
+      "name": "Raw Peanuts 1 x 500 gms",
+      "description": "Raw Peanuts",
+      "image": "assets/images/spices/corriander.jpg",
+      "price": 200,
+      "category": "Oil Seeds",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/corriander.jpg",
+          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "500gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    }
+  ]
+}

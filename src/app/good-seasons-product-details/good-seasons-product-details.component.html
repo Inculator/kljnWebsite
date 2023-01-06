@@ -1,0 +1,86 @@
+<div class="p-d-flex card">
+    <div style="width: 40%; text-align: center;">
+
+      <p-galleria [(value)]="productsListModel.images" [responsiveOptions]="responsiveOptions"
+                  [containerStyle]="{'max-width': '100%'}" [numVisible]="5"
+                  [showThumbnails]="false" [showIndicators]="true">
+        <ng-template pTemplate="item" let-item>
+          <img [src]="item.previewImageSrc" style="display: block;" />
+        </ng-template>
+        <ng-template pTemplate="thumbnail" let-item>
+          <div class="p-grid p-nogutter p-justify-center">
+            <img [src]="item.thumbnailImageSrc" style="display: block;" />
+          </div>
+        </ng-template>
+      </p-galleria>
+
+    </div>
+
+    <p-divider layout="vertical"></p-divider>
+    <div style="width: 60%; text-align: left;">
+        <div style="font-size: 2em; font-weight: bold; font-family: fangsong;
+        font-style: italic;">{{productsListModel.name}}</div> <br>
+
+        <i class="pi pi-star" style="font-size: 1rem; color: goldenrod;
+        font-weight: bold;"> {{productsListModel.rating}}</i> <br>
+
+        <p-divider layout="horizontal"></p-divider>
+        <div style="display: flex;">
+            <div style="font-size: 1.3em; font-family: fangsong;
+            padding-right: 1rem;">MRP </div>
+            <div style="font-size: 2em; font-family: fangsong;
+            font-style: italic; color: darkred;">₹ {{productsListModel.price}}</div>
+        </div>
+
+        <p-divider layout="horizontal"></p-divider>
+
+        <div style="display: flex;">
+            <div style="font-size: 1.3em; font-family: fangsong;
+            padding-right: 1rem;">Available:</div>
+            <div style="font-size: 1.2rem; font-family: fangsong;
+            font-style: italic; color: blue;">{{productsListModel.inventoryStatus}}</div>
+        </div>
+        <br>
+        <div style="display: flex;">
+            <div style="font-size: 1.3em; font-family: fangsong;
+            padding-right: 1rem;">Category:</div>
+            <div style="font-size: 1.2rem; font-family: fangsong;
+            font-style: italic; color: darkolivegreen;">{{productsListModel.category}}</div>
+        </div>
+        <br>
+        <div style="display: flex;">
+            <div style="font-size: 1.3em; font-family: fangsong;
+            padding-right: 1rem;">Available quantity:</div>
+            <div style="font-size: 1.2rem; font-family: fangsong;
+            font-style: italic; color: darkorchid;">{{productsListModel.quantity}}</div>
+        </div>
+    </div>
+</div>
+
+
+<p-tabView>
+    <p-tabPanel header="Description" [selected]="true">
+        <div class="fontDescription">
+            {{productsListModel.description}}
+        </div>
+    </p-tabPanel>
+    <p-tabPanel header="Specification">
+        <p-table [value]="productsListModel.specification">
+            <ng-template pTemplate="header">
+                <tr>
+                    <th>Title</th>
+                    <th>Weight</th>
+                    <th>Package Style</th>
+                </tr>
+            </ng-template>
+            <ng-template pTemplate="body" let-specification>
+                <tr>
+                    <td>{{specification.title}}</td>
+                    <td>{{specification.weight}}</td>
+                    <td>{{specification.packageStyle}}</td>
+                </tr>
+            </ng-template>
+        </p-table>
+    </p-tabPanel>
+
+</p-tabView>

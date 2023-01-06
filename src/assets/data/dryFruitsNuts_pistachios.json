@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "itemCode": "Roasted & Salted Pistachio 1 x 250 gms",
+            "name": "Roasted & Salted Pistachio 1 x 250 gms",
+            "description": "Premium Roasted and Salted Pistachio Nuts",
+            "image": "assets/images/dryFruits/pistachio.jpg",
+            "price": 500,
+            "category": "Dry Fruits & Nuts",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Zipper Pouch"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "itemCode": "Roasted & Salted Pistachio 2 x 250 gms",
+            "name": "Roasted & Salted Pistachio 2 x 250 gms",
+            "description": "Premium Roasted and Salted Pistachio Nuts",
+            "image": "assets/images/dryFruits/pistachio.jpg",
+            "price": 950,
+            "category": "Dry Fruits & Nuts",
+            "quantity": 10,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "images": [
+                {
+                    "previewImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                {
+                    "previewImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "thumbnailImageSrc": "assets/images/dryFruits/pistachio.jpg",
+                    "alt": "",
+                    "title": ""
+                }
+            ],
+            "specification": [
+                {
+                    "title": "Weight",
+                    "weight": "250gm",
+                    "packageStyle": "Zipper Pouch"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itemCode": "Saunff 1 x 100 gms",
+      "name": "Saunff 1 x 100 gms",
+      "description": "Saunff",
+      "image": "assets/images/spices/saunff.jpg",
+      "price": 80,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/saunff.jpg",
+          "thumbnailImageSrc": "assets/images/spices/saunff.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/saunff_1.jpg",
+          "thumbnailImageSrc": "assets/images/spices/saunff_1.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "100",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "itemCode": "Saunff 1 x 250 gms",
+      "name": "Saunff 1 x 250 gms",
+      "description": "Saunff",
+      "image": "assets/images/spices/saunff.jpg",
+      "price": 200,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/saunff.jpg",
+          "thumbnailImageSrc": "assets/images/spices/saunff.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/saunff_1.jpg",
+          "thumbnailImageSrc": "assets/images/spices/saunff_1.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "250gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    }
+  ]
+}

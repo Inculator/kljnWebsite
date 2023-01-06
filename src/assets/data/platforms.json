@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "previewImageSrc": "assets/images/platforms/amazon.png",
+            "thumbnailImageSrc": "assets/images/platforms/amazon.png",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/platforms/24seven.png",
+            "thumbnailImageSrc": "assets/images/platforms/24seven.png",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/platforms/bigbasket.png",
+            "thumbnailImageSrc": "assets/images/platforms/bigbasket.png",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/platforms/flipkart.png",
+            "thumbnailImageSrc": "assets/images/platforms/flipkart.png",
+            "alt": "",
+            "title": ""
+        },
+        {
+            "previewImageSrc": "assets/images/platforms/indiamart.png",
+            "thumbnailImageSrc": "assets/images/platforms/indiamart.png",
+            "alt": "",
+            "title": ""
+        }
+    ]
+}

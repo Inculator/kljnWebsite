@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itemCode": "Cloves 1 x 100 gms",
+      "name": "Cloves 1 x 100 gms",
+      "description": "Cloves",
+      "image": "assets/images/spices/clove.jpg",
+      "price": 200,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/clove.jpg",
+          "thumbnailImageSrc": "assets/images/spices/clove.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/clove.jpg",
+          "thumbnailImageSrc": "assets/images/spices/clove.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "100gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "itemCode": "Cloves 1 x 250 gms",
+      "name": "Cloves 1 x 250 gms",
+      "description": "Hand Picked Cloves",
+      "image": "assets/images/spices/clove.jpg",
+      "price": 450,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/clove.jpg",
+          "thumbnailImageSrc": "assets/images/spices/clove.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/clove.jpg",
+          "thumbnailImageSrc": "assets/images/spices/clove.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "250gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    }
+  ]
+}

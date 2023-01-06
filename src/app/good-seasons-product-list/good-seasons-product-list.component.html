@@ -1,0 +1,51 @@
+<p-dataView #dv [value]="productsListModel" [paginator]="true" [rows]="9" filterBy="itemCode" layout="grid">
+    <ng-template pTemplate="header">
+        <div class="p-d-flex p-flex-column p-flex-md-row p-jc-md-between">
+            <span class="p-input-icon-left p-mb-2 p-mb-md-0">
+                <i class="pi pi-search"></i>
+                <input type="search" pInputText placeholder="Search by Name" (input)="dv.filter($event.target.value)">
+            </span>
+            <p-dataViewLayoutOptions></p-dataViewLayoutOptions>
+        </div>
+    </ng-template>
+
+    <ng-template let-product pTemplate="listItem">
+        <div class="p-col-12 product-list-item" (click)="navigateToDetailsPage(product)">
+            <div class="product-list-item">
+                <img [src]="product.image" [alt]="product.name"/>
+                <div class="product-list-detail">
+                    <div class="product-name">{{product.itemCode}}</div>
+                    <i class="pi pi-tag product-category-icon"></i><span class="product-category">{{product.category}}</span>
+                </div>
+                <div class="product-list-action">
+                    <span class="product-price">₹ {{product.price}}</span>
+<!--                    <p-button icon="pi pi-shopping-cart" label="Check" (click)="navigateToDetailsPage(product)" [disabled]="product.inventoryStatus === 'OUTOFSTOCK'"></p-button>-->
+                    <span [class]="'product-badge status-' + product.inventoryStatus.toLowerCase()">{{product.inventoryStatus}}</span>
+                </div>
+            </div>
+        </div>
+    </ng-template>
+
+    <ng-template let-product pTemplate="gridItem">
+        <div class="p-col-12 p-md-4 " (click)="navigateToDetailsPage(product)">
+            <div class="product-grid-item card">
+                <div class="product-grid-item-top">
+                    <div>
+                        <i class="pi pi-tag product-category-icon"></i>
+                        <span class="product-category">{{product.category}}</span>
+                    </div>
+                    <span [class]="'product-badge status-' + product.inventoryStatus.toLowerCase()">{{product.inventoryStatus}}</span>
+                </div>
+                <div class="product-grid-item-content">
+                    <img [src]="product.image" [alt]="product.name"/>
+                    <div class="product-name">{{product.itemCode}}</div>
+                    <br>
+                </div>
+                <div class="product-grid-item-bottom">
+                    <span class="product-price">₹ {{product.price}}</span>
+<!--                    <p-button icon="pi pi-shopping-cart" label="Check" (click)="navigateToDetailsPage(product)" [disabled]="product.inventoryStatus === 'OUTOFSTOCK'"></p-button>-->
+                </div>
+            </div>
+        </div>
+    </ng-template>
+</p-dataView>

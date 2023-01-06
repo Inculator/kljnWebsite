@@ -26,3 +26,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     background-image: url(./assets/images/backgrounds/contact-us-bg1.jpg);
     height: 100%;
 }
+
+body .p-card .p-card-content {
+    padding: 0rem 0;
+}

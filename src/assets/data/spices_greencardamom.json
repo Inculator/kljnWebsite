@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "itemCode": "Green Cardamom Whole 1 x 100 gms",
+      "name": "Green Cardamom Whole 1 x 100 gms",
+      "description": "Green Cardamom Whole",
+      "image": "assets/images/spices/greenCardamom.jpg",
+      "price": 400,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/cardamom.jpg",
+          "thumbnailImageSrc": "assets/images/spices/cardamom.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/greenCardamom.jpg",
+          "thumbnailImageSrc": "assets/images/spices/greenCardamom.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "100gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "itemCode": "Green Cardamom Whole 2 x 100 gms",
+      "name": "Green Cardamom Whole 2 x 100 gms",
+      "description": "Green Cardamom Whole",
+      "image": "assets/images/spices/greenCardamom.jpg",
+      "price": 780,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/cardamom.jpg",
+          "thumbnailImageSrc": "assets/images/spices/cardamom.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/greenCardamom.jpg",
+          "thumbnailImageSrc": "assets/images/spices/greenCardamom.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "100gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "itemCode": "Green Cardamom Whole 1 x 250 gms",
+      "name": "Green Cardamom Whole 1 x 250 gms",
+      "description": "Green Cardamom Whole",
+      "image": "assets/images/spices/greenCardamom.jpg",
+      "price": 900,
+      "category": "Spices",
+      "quantity": 10,
+      "inventoryStatus": "INSTOCK",
+      "rating": 5,
+      "images": [
+        {
+          "previewImageSrc": "assets/images/spices/cardamom.jpg",
+          "thumbnailImageSrc": "assets/images/spices/cardamom.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "previewImageSrc": "assets/images/spices/greenCardamom.jpg",
+          "thumbnailImageSrc": "assets/images/spices/greenCardamom.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "specification": [
+        {
+          "title": "Weight",
+          "weight": "250gm",
+          "packageStyle": "Sealed Pouch"
+        }
+      ]
+    }
+  ]
+}
