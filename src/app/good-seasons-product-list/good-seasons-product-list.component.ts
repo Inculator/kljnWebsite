@@ -14,17 +14,12 @@ export class GoodSeasonsProductListComponent implements OnInit {
   name: any;
 
   constructor(private productsList: ProductsList, private route: ActivatedRoute,
-    private router: Router, private productDetailsTransferService: ProductDetailsTransferService) { 
-      this.router.routeReuseStrategy.shouldReuseRoute = function () {
-        return false;
-      };
-      
-      this.name = this.router.getCurrentNavigation().extras.state.pageName;
-      this.getProductsList();
-    }
+    private router: Router, private productDetailsTransferService: ProductDetailsTransferService) {
+    this.name = this.router.getCurrentNavigation().extras.state.pageName;
+    this.getProductsList();
+  }
 
   ngOnInit(): void {
-
   }
 
   getProductsList() {

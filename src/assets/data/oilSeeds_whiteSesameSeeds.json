@@ -5,7 +5,7 @@
       "itemCode": "White Sesame Seeds 1 x 100 gms",
       "name": "White Sesame Seeds 1 x 100 gms",
       "description": "White Sesame Seeds",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/seasameSeeds.jpg",
       "price": 0,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -13,14 +13,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/sesame-white_product.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/sesame-white_product.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/seasameSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/seasameSeeds.jpg",
           "alt": "",
           "title": ""
         }
@@ -38,7 +38,7 @@
       "itemCode": "White Sesame Seeds 1 x 250 gms",
       "name": "White Sesame Seeds 1 x 250 gms",
       "description": "White Sesame Seeds",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/sesame-white_product.jpg",
       "price": 0,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -46,14 +46,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/seasameSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/seasameSeeds.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/sesame-white_product.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/sesame-white_product.jpg",
           "alt": "",
           "title": ""
         }

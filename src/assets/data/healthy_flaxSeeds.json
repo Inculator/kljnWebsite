@@ -5,7 +5,7 @@
             "itemCode": "Raw Flax Seeds 1 x 250 gms",
             "name": "Raw Flax Seeds 1 x 250 gms",
             "description": "Raw Flax Seeds",
-            "image": "assets/images/dryFruits/almonds.jpg",
+            "image": "assets/images/healthy/flax-seeds_product.jpg",
             "price": 180,
             "category": "Healthy",
             "quantity": 10,
@@ -13,14 +13,14 @@
             "rating": 5,
             "images": [
                 {
-                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "previewImageSrc": "assets/images/healthy/flax-seeds_product.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/flax-seeds_product.jpg",
                     "alt": "",
                     "title": ""
                 },
                 {
-                    "previewImageSrc": "assets/images/dryFruits/appricot.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/appricot.jpg",
+                    "previewImageSrc": "assets/images/healthy/flaxSeeds.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/flaxSeeds.jpg",
                     "alt": "",
                     "title": ""
                 }
@@ -38,7 +38,7 @@
             "itemCode": "Raw Flax Seeds 2 x 250 gms",
             "name": "Raw Flax Seeds. 2 x 250 gms",
             "description": "Raw Flax Seeds",
-            "image": "assets/images/dryFruits/almonds.jpg",
+            "image": "assets/images/healthy/flax-seeds_product.jpg",
             "price": 350,
             "category": "Healthy",
             "quantity": 10,
@@ -46,14 +46,14 @@
             "rating": 5,
             "images": [
                 {
-                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "previewImageSrc": "assets/images/healthy/flaxSeeds.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/flaxSeeds.jpg",
                     "alt": "",
                     "title": ""
                 },
                 {
-                    "previewImageSrc": "assets/images/dryFruits/appricot.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/appricot.jpg",
+                    "previewImageSrc": "assets/images/healthy/flax-seeds_product.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/flax-seeds_product.jpg",
                     "alt": "",
                     "title": ""
                 }

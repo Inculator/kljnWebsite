@@ -5,7 +5,7 @@
       "itemCode": "Kalaunji 1 x 100 gms",
       "name": "Kalaunji 1 x 100 gms",
       "description": "Kalaunji",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/kalaunji.jpg",
       "price": 80,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -13,14 +13,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
           "alt": "",
           "title": ""
         }
@@ -38,7 +38,7 @@
       "itemCode": "Kalaunji 1 x 250 gms",
       "name": "Kalaunji 1 x 250 gms",
       "description": "Kalaunji",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/kalaunji.jpg",
       "price": 200,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -46,14 +46,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/kalaunji.jpg",
           "alt": "",
           "title": ""
         }

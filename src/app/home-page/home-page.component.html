@@ -1,18 +1,19 @@
 <p-card style="text-align: center;">
     <p-galleria class="galleria-item-images" [(value)]="images" [responsiveOptions]="responsiveOptions" [numVisible]="5"
-        [circular]="true" [autoPlay]="true" [transitionInterval]="3000" [showThumbnails]="false">
+        [circular]="true" [autoPlay]="true" [transitionInterval]="3000" [showThumbnails]="false"
+        [containerStyle]="{'width': '100%'}">
         <ng-template pTemplate="item" let-item>
-            <img [src]="item.previewImageSrc" style="width: 100%; height: 25rem;" alt="Images for Spices" />
+            <img [src]="item.previewImageSrc" style="width: 80%; display: block;" alt="Images for Spices" />
         </ng-template>
     </p-galleria>
 </p-card>
 
-<p-card>
+<!-- <p-card>
     <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download.jpeg" />
     <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download1.jpeg" />
   <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download3.jpeg" />
   <img style=" width: 25%; max-height: 15rem" src="assets/images/offers/download2.jpeg" />
-</p-card>
+</p-card> -->
 
 <p-card styleClass="pcardFotter" style="text-align: center;">
 

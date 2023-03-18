@@ -5,7 +5,7 @@
       "itemCode": "Garam Masala Whole 1 x 250 gms",
       "name": "Garam Masala Whole 1 x 250 gms",
       "description": "Garam Masala Whole",
-      "image": "assets/images/spices/clove.jpg",
+      "image": "assets/images/spices/garam-masala-solid.jpg",
       "price": 500,
       "category": "Spices",
       "quantity": 10,
@@ -13,14 +13,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
-          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "previewImageSrc": "assets/images/spices/garamMasala.jpg",
+          "thumbnailImageSrc": "assets/images/spices/garamMasala.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
-          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "previewImageSrc": "assets/images/spices/garam-masala-solid.jpg",
+          "thumbnailImageSrc": "assets/images/spices/garam-masala-solid.jpg",
           "alt": "",
           "title": ""
         }
@@ -38,7 +38,7 @@
       "itemCode": "Garam Masala Whole 1 x 500 gms",
       "name": "Garam Masala Whole 1 x 500 gms",
       "description": "Hand Picked Garam Masala Whole",
-      "image": "assets/images/spices/blackPepper.jpg",
+      "image": "assets/images/spices/garamMasala.jpg",
       "price": 950,
       "category": "Spices",
       "quantity": 10,
@@ -46,14 +46,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
-          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "previewImageSrc": "assets/images/spices/garamMasala.jpg",
+          "thumbnailImageSrc": "assets/images/spices/garamMasala.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/blackPepper.jpg",
-          "thumbnailImageSrc": "assets/images/spices/blackPepper.jpg",
+          "previewImageSrc": "assets/images/spices/garam-masala-solid.jpg",
+          "thumbnailImageSrc": "assets/images/spices/garam-masala-solid.jpg",
           "alt": "",
           "title": ""
         }

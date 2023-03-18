@@ -2,25 +2,25 @@
     "data": [
         {
             "id": "1",
-            "itemCode": "Raw Cashew W240 1 x 250 gms",
-            "name": "Raw Cashew W240 1 x 250 gms",
-            "description": "Raw premium Cashew Nuts",
-            "image": "assets/images/dryFruits/almonds.jpg",
+            "itemCode": "Sago(SabuDana) 1 x 250 gms",
+            "name": "Sago(SabuDana) 1 x 250 gms",
+            "description": "Sago(SabuDana)",
+            "image": "assets/images/healthy/sabudana-1.jpg",
             "price": 400,
-            "category": "Dry Fruits & Nuts",
+            "category": "Healthy",
             "quantity": 10,
             "inventoryStatus": "INSTOCK",
             "rating": 5,
             "images": [
                 {
-                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "previewImageSrc": "assets/images/healthy/sabudana-1.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/sabudana-1.jpg",
                     "alt": "",
                     "title": ""
                 },
                 {
-                    "previewImageSrc": "assets/images/dryFruits/appricot.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/appricot.jpg",
+                    "previewImageSrc": "assets/images/healthy/sabudana-1.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/sabudana-1.jpg",
                     "alt": "",
                     "title": ""
                 }
@@ -35,25 +35,25 @@
         },
         {
             "id": "1",
-            "itemCode": "Roasted & Salted Cashew 1 x 250 gms",
-            "name": "Roasted & Salted Cashew 1 x 250 gms",
-            "description": "Premium Roasted and Salted Cashew Nuts",
-            "image": "assets/images/dryFruits/almonds.jpg",
+            "itemCode": "Sago(SabuDana) 1 x 250 gms",
+            "name": "Sago(SabuDana) 1 x 250 gms",
+            "description": "Sago(SabuDana)",
+            "image": "assets/images/healthy/sabudana-1.jpg",
             "price": 500,
-            "category": "Dry Fruits & Nuts",
+            "category": "Healthy",
             "quantity": 10,
             "inventoryStatus": "INSTOCK",
             "rating": 5,
             "images": [
                 {
-                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "previewImageSrc": "assets/images/healthy/sabudana-1.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/sabudana-1.jpg",
                     "alt": "",
                     "title": ""
                 },
                 {
-                    "previewImageSrc": "assets/images/dryFruits/appricot.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/appricot.jpg",
+                    "previewImageSrc": "assets/images/healthy/sabudana-1.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/sabudana-1.jpg",
                     "alt": "",
                     "title": ""
                 }

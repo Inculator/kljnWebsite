@@ -2,25 +2,25 @@
     "data": [
         {
             "id": "1",
-            "itemCode": "Raw Cashew W240 1 x 250 gms",
-            "name": "Raw Cashew W240 1 x 250 gms",
-            "description": "Raw premium Cashew Nuts",
-            "image": "assets/images/dryFruits/almonds.jpg",
+            "itemCode": "Quinoa 1 x 250 gms",
+            "name": "Quinoa 1 x 250 gms",
+            "description": "Quinoa",
+            "image": "assets/images/healthy/quinoa_product.jpg",
             "price": 400,
-            "category": "Dry Fruits & Nuts",
+            "category": "Healthy",
             "quantity": 10,
             "inventoryStatus": "INSTOCK",
             "rating": 5,
             "images": [
                 {
-                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "previewImageSrc": "assets/images/healthy/quinoa_product.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/quinoa_product.jpg",
                     "alt": "",
                     "title": ""
                 },
                 {
-                    "previewImageSrc": "assets/images/dryFruits/appricot.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/appricot.jpg",
+                    "previewImageSrc": "assets/images/healthy/quinoa.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/quinoa.jpg",
                     "alt": "",
                     "title": ""
                 }
@@ -35,25 +35,25 @@
         },
         {
             "id": "1",
-            "itemCode": "Roasted & Salted Cashew 1 x 250 gms",
-            "name": "Roasted & Salted Cashew 1 x 250 gms",
-            "description": "Premium Roasted and Salted Cashew Nuts",
-            "image": "assets/images/dryFruits/almonds.jpg",
+            "itemCode": "Quinoa 1 x 250 gms",
+            "name": "Quinoa 1 x 250 gms",
+            "description": "Quinoa",
+            "image": "assets/images/healthy/quinoa.jpg",
             "price": 500,
-            "category": "Dry Fruits & Nuts",
+            "category": "Healthy",
             "quantity": 10,
             "inventoryStatus": "INSTOCK",
             "rating": 5,
             "images": [
                 {
-                    "previewImageSrc": "assets/images/dryFruits/almonds.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/almonds.jpg",
+                    "previewImageSrc": "assets/images/healthy/quinoa.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/quinoa.jpg",
                     "alt": "",
                     "title": ""
                 },
                 {
-                    "previewImageSrc": "assets/images/dryFruits/appricot.jpg",
-                    "thumbnailImageSrc": "assets/images/dryFruits/appricot.jpg",
+                    "previewImageSrc": "assets/images/healthy/quinoa_product.jpg",
+                    "thumbnailImageSrc": "assets/images/healthy/quinoa_product.jpg",
                     "alt": "",
                     "title": ""
                 }

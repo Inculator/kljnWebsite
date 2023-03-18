@@ -5,7 +5,7 @@
       "itemCode": "Black Mustard Seeds 1 x 100 gms",
       "name": "Black Mustard Seeds 1 x 100 gms",
       "description": "Natural Unpolished Sortex Cleaned Bold Black Mustard Seeds highly useful for daily cooking needs",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/blackMustardSeeds.jpg",
       "price": 50,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -13,14 +13,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/blackMustardSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/blackMustardSeeds.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/mustard-seeds-black_product.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/mustard-seeds-black_product.jpg",
           "alt": "",
           "title": ""
         }
@@ -38,7 +38,7 @@
       "itemCode": "Black Mustard Seeds 1 x 250 gms",
       "name": "Black Mustard Seeds 1 x 250 gms",
       "description": "Black Mustard",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/mustard-seeds-black_product.jpg",
       "price": 100,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -46,14 +46,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/blackMustardSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/blackMustardSeeds.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/mustard-seeds-black_product.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/mustard-seeds-black_product.jpg",
           "alt": "",
           "title": ""
         }

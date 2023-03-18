@@ -5,7 +5,7 @@
       "itemCode": "Raw Peanuts 1 x 250 gms",
       "name": "Raw Peanuts 1 x 250 gms",
       "description": "Raw Peanuts",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/peanutSeeds.jpg",
       "price": 100,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -13,14 +13,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
           "alt": "",
           "title": ""
         }
@@ -38,7 +38,7 @@
       "itemCode": "Raw Peanuts 1 x 500 gms",
       "name": "Raw Peanuts 1 x 500 gms",
       "description": "Raw Peanuts",
-      "image": "assets/images/spices/corriander.jpg",
+      "image": "assets/images/oilSeeds/peanutSeeds.jpg",
       "price": 200,
       "category": "Oil Seeds",
       "quantity": 10,
@@ -46,14 +46,14 @@
       "rating": 5,
       "images": [
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
           "alt": "",
           "title": ""
         },
         {
-          "previewImageSrc": "assets/images/spices/corriander.jpg",
-          "thumbnailImageSrc": "assets/images/spices/corriander.jpg",
+          "previewImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
+          "thumbnailImageSrc": "assets/images/oilSeeds/peanutSeeds.jpg",
           "alt": "",
           "title": ""
         }
